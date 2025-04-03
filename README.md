@@ -1,4 +1,4 @@
-# banking-system-performance-analysis
+# Banking-System-Performance-Analysis
 ##  Project Overview  
 This project evaluates the performance of MorganStanley’s online banking system by analyzing transaction data collected during simulated load testing. The goal is to assess system speed, efficiency, and failure/success rates and determine whether the platform meets its performance promises.
 

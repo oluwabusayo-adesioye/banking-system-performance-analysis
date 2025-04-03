@@ -31,9 +31,9 @@ The dataset contains records of banking transactions processed under simulated c
 ---
 
 ## Key Insights & Recommendations  
-**Average response time**: `X seconds` (**Above/Below** the threshold).  
-**System error rate spikes** when transaction loads exceed `X transactions/second`.  
-**Throughput declines** significantly beyond `X transactions`, indicating scalability issues.  
+**Average system response time**: 6949 milliseconds` (**Above** the threshold).  
+**System error rate spikes** when transaction loads exceed `70 transactions/second`.  
+**Throughput stagnates** significantly beyond `10 transactions`, indicating scalability issues.  
 **Recommendation**: Optimize system performance by improving processing power and load balancing. 
 
 ---

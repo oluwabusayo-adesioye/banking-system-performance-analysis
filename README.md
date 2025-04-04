@@ -31,9 +31,12 @@ The dataset contains records of banking transactions processed under simulated c
 ---
 
 ## Key Insights & Recommendations  
-**Average system response time**: 6949 milliseconds` (**Above** the threshold).  
+**Average system response time**: `6949 milliseconds` which is above the threshold. 
+
 **System error rate spikes** when transaction loads exceed `70 transactions/second`.  
-**Throughput stagnates** significantly beyond `10 transactions`, indicating scalability issues.  
+
+**Throughput stagnates** significantly beyond `10 transactions`, indicating scalability issues. 
+
 **Recommendation**: Optimize system performance by improving processing power and load balancing. 
 
 ---

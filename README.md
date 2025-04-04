@@ -65,7 +65,7 @@ The dataset contains records of banking transactions processed under simulated c
 ## Author  
 👤 **[Oluwabusayo Adesioye]**  
 📧 [temiloluwaadesioye@gmail.com]  
-🔗 [linkedin/in/oluwabusayo-adesioye/]  
+🔗 [[LinkedIn](https://www.linkedin.com/in/oluwabusayo-adesioye/)]  
 
 ---
 
